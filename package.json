@@ -1,0 +1,24 @@
+{
+  "name": "courses",
+  "version": "1.0.0",
+  "description": "Creating Responsive Webpage By  Tailwind ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisathyaofficial126/Guvi-Task-Landing-Page-2.git",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "Balavenkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisathyaofficial126/Guvi-Task-Landing-Page-2/issues"
+  },
+  "homepage": "https://github.com/saisathyaofficial126/Guvi-Task-Landing-Page-2/blob/main/README.md",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.14",
+    "tailwindcss": "^4.0.14"
+  }
+}
